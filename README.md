@@ -1,2 +1,1 @@
-# GLCD
-Improve 128x64 GLCD Full Graphic Smart Controller with ESD Protection
+Reimplementation of the RepRapDiscount Full Graphic Smart Controller in KiCad
